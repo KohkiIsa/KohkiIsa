@@ -9,11 +9,11 @@ BusinessEconomics student specializing in Random Survival Forest.
 
 ## Featured Projects
 - **CoxPH vs RSF (Senior Thesis)**
-  Comparative study using lung cancer survival data (C-index, variable selection, missing data).
+  Comparative study using lung cancer survival data (C-index, variable selection, missing data).  
   https://github.com/KohkiIsa/CoxPH-and-RSF-senior-thesis
 
 - **SIGNATE SMBC Competition (Portfolio)**
-  End-to-end ML pipeline: preprocessing → training/validation → inference → submission.
+  End-to-end ML pipeline: preprocessing → training/validation → inference → submission.  
   https://github.com/KohkiIsa/signate-smbc
 
 ## Background
